@@ -19,36 +19,39 @@
 		 <br>
 		 <h3 align="center"> Current Research </h3>
 		 <div class="row">
-		 <div class="card bg-white text-dark col-sm">
-			  
+		 <div class="card bg-white text-dark col-sm" >
+
+
 			  <div class="card-body">
 				<br>
 				<br>
 				<br>
-				
+
+
 				<h5 class="card-title" align="center">Evolution of monsoon in Indian subcontinent.</h5>
+
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 				<p class="card-text">Last updated 3 mins ago</p>
 				-->
 			  </div>
 		</div>
-		
-		<div class="card bg-white text-dark col-sm">
-			  
+
+		<div class="card bg-white text-dark col-sm" >
+
 			  <div class="card-body">
 				<br>
 				<br>
 				<br>
-				
+
 				<h5 class="card-title" align="center">Molecular level isotopic characterization of vegetation and its implication to paleoecology.</h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 				<p class="card-text">Last updated 3 mins ago</p>
 				-->
 			  </div>
 		</div>
-		<div class="card bg-white text-dark col-sm">
-		
-			  
+		<div class="card bg-white text-dark col-sm" >
+
+
 			  <div class="card-body">
 				<br>
 				<br>
@@ -61,8 +64,8 @@
 		</div>
 		</div>
 		<div class="row">
-		<div class="card bg-white text-dark col-sm">
-			  
+		<div class="card bg-white text-dark col-sm" >
+
 			  <div class="card-body">
 				<br>
 				<br>
@@ -73,8 +76,8 @@
 				-->
 			  </div>
 		</div>
-		<div class="card bg-white text-dark col-sm">
-			  
+		<div class="card bg-white text-dark col-sm" >
+
 			  <div class="card-body">
 				<br>
 				<br>
@@ -85,8 +88,8 @@
 				-->
 			  </div>
 		</div>
-		<div class="card bg-white text-dark col-sm">
-			  
+		<div class="card bg-white text-dark col-sm" >
+
 			  <div class="card-body">
 				<br>
 				<br>
@@ -101,8 +104,8 @@
 	</div>
 <br><br>
 <?php include 'footer.php'; ?>
-  
-  
+
+
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

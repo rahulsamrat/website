@@ -87,7 +87,7 @@
           <h2 class="display-4">Academics</h2>
 		  <hr>
 
-              <h3>Int. MS-PhD </h3>
+              <h3>PhD </h3>
 			  <h5>Indian Institute of Science Education and Research Kolkata.</h5>
         </div>
 
@@ -115,8 +115,8 @@
 		  </p>
         </div>
       </section>
-	  
-	  
+
+
 	   <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Field">
         <div class="my-auto">
           <h2>Field Work</h2>
@@ -133,7 +133,7 @@
 		  </p>
         </div>
       </section>
-	  
+
 	  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Activites">
         <div class="my-auto">
           <h2>Extra- Curricular Activities:</h2>
@@ -154,7 +154,7 @@
 		   </p>
         </div>
       </section>
-	  
+
 	  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Projects">
         <div class="my-auto">
           <h2>Projects</h2>
@@ -166,7 +166,7 @@
 		 </u>
 		</div>
       </section>
-	  
+
 	  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Abstract">
         <div class="my-auto">
 		<h2>Abstract & Conference</h2>
@@ -180,7 +180,7 @@
 
 
 
-		
+
 		</div>
       </section>
 

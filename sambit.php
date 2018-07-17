@@ -55,7 +55,7 @@
 		  <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#Achivements">Achivements</a>
 		  </li>
-		  
+
 		  <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#Publications">Publications</a>
           </li>
@@ -75,10 +75,10 @@
           </h1>
           <h3>PhD Student</h3>
 		  <p>
-           sg12rs003@iiserkol.ac.in | 
+           sg12rs003@iiserkol.ac.in |
 +91-9434053843</p>
-		<img src="images/sambit.jpg" alt="sambit">
-         
+		<img src="images/sambit2.jpg" alt="sambit">
+
           <!--<p class="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
         --></div>
       </section>
@@ -123,7 +123,7 @@
 			<li>Technical-Inter-laboratory calibration of various secondary standard.</li>
 			<li>Technical-Establishment of experimental protocol for Carbonate, Organic Matter.</li>
 			<li>Technical-Establishment of experimental protocol for compound specific isotope analysis for the first time in India.</li>
-			<li>Technical-Establishment of experimental protocol for compound specific characterization and quantification of organic matter (n-alkane) in GC - FID system.</li>        
+			<li>Technical-Establishment of experimental protocol for compound specific characterization and quantification of organic matter (n-alkane) in GC - FID system.</li>
 		</div>
       </section>
 	  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Achivements">
@@ -133,7 +133,7 @@
 		  <p>Ranked 11th Joint CSIR-UGC Test for Junior Research fellowship and Eligibility for Lectureship, 2012.</p>
 		 </div>
 	  </section>
-	  
+
 	  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Publications">
         <div class="my-auto">
 		<h2>Publications</h2>

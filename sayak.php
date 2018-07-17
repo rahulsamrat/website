@@ -71,10 +71,10 @@
           </h1>
           <h3>PhD Student</h3>
 		  <h5>
-            <a href="mailto:name@email.com">sayak1216@iiserkol.ac.in | 
+            <a href="mailto:name@email.com">sayak1216@iiserkol.ac.in |
 +91-8961266833</a></h5>
 		<img src="images/sayak1.jpg" alt="sayak">
-         
+
           <!--<p class="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
         --></div>
       </section>
@@ -113,22 +113,24 @@
         <div class="my-auto">
           <h2>Positions</h2>
 			  <hr>
-              <h3>PhD Student at IISER Kolkata</h3>           
+              <h3>PhD Student at IISER Kolkata</h3>
 		</div>
       </section>
 
-	  
+
 	  <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="Publications">
         <div class="my-auto">
 		<h2>Publications</h2>
 		<hr>
-		<p>1) Sayak Basu, Shailesh Agrawal, Prasanta Sanyal, Poritosh Mahato, Satyam Kumar, Anindya Sarkar, 2015. Carbon isotopic ratios of modern C3–C4 plants from the Gangetic Plain, India and its implications to paleovegetational reconstruction. Palaeogeography, Palaeoclimatology, Palaeoecology, 440, 22-32.<br>
-           2) Sayak Basu, Anoop Ambili, Prasanta Sanyal, Pramod Singh, 2017. Lipid distribution in the lake Ennamangalam, south India: Indicators of organic matter sources and paleoclimatic history. Quaternary International, http://doi.org/10.1016/j.quaint.2016.08.045> <br>
-           3) Sayak Basu, Prasanta Sanyal, Kshirod Sahoo, Naveen Chauhan, Anindya Sarkar, Navin Juyal, 2017: <a href= "https://www.sciencedirect.com/science/article/pii/S0031018217306351"> Variation in monsoonal rainfall sources (Arabian Sea and Bay of Bengal) during the late Quaternary: Implications for regional vegetation and fluvial systems(In Press)</a>. <br>
-
+		<ul>
+      <li>Usman, M. O., Kirkels, F. M. S. A., Zwart, H. M., <strong>Basu, S.</strong>, Ponton, C., Blattmann, T. M., Ploetze, M., Haghipour, N., McIntyre, C., Peterse, F., Lupker, M., Giosan, L., and Eglinton, T. I.: Reconciling drainage and receiving basin signatures of the Godavari River system, Biogeosciences, 15, 3357-3375, https://doi.org/10.5194/bg-15-3357-2018, 2018.</li>
+      <li><strong>Sayak Basu</strong>, Shailesh Agrawal, Prasanta Sanyal, Poritosh Mahato, Satyam Kumar, Anindya Sarkar, 2015. Carbon isotopic ratios of modern C3–C4 plants from the Gangetic Plain, India and its implications to paleovegetational reconstruction. Palaeogeography, Palaeoclimatology, Palaeoecology, 440, 22-32.</li>
+      <li><strong>Sayak Basu</strong>, Anoop Ambili, Prasanta Sanyal, Pramod Singh, 2017. Lipid distribution in the lake Ennamangalam, south India: Indicators of organic matter sources and paleoclimatic history. Quaternary International, http://doi.org/10.1016/j.quaint.2016.08.045></li>
+      <li><strong>Sayak Basu</strong>, Prasanta Sanyal, Kshirod Sahoo, Naveen Chauhan, Anindya Sarkar, Navin Juyal, 2017: <a href= "https://www.sciencedirect.com/science/article/pii/S0031018217306351"> Variation in monsoonal rainfall sources (Arabian Sea and Bay of Bengal) during the late Quaternary: Implications for regional vegetation and fluvial systems(In Press)</a>.</li>
+    </ul>
 			           <h3><strong><strong>Published abstracts:</strong></strong></h3>
 
-			<p>1) Open Science Meeting (PAGES conference), 2012 
+			<p>1) Open Science Meeting (PAGES conference), 2012
 
 Indian monsoonal rainfall variation in last 100 ka: A case study from western part of India.<br>
 
@@ -138,7 +140,7 @@ Carbon Isotopic characterization of vegetation and phytoliths from eastern part 
 
 3) Indian Geological Union, 2013
 
-The influence of vapor transport time on the stable isotopic composition of rainwater at South Bengal, India. 
+The influence of vapor transport time on the stable isotopic composition of rainwater at South Bengal, India.
 
 
 

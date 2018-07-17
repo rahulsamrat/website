@@ -13,7 +13,7 @@
   </head>
   <body>
   <?php include 'navbar.php'; ?>
-  
+
   <div class="container">
 				<hr>
 				<br>
@@ -46,7 +46,7 @@
 							<div class="overlay">
 								<p>
 									<br>
-									<a href="sayak.php" class="btn btn-dark">Sayak basu<br>PhD Student (JRF)</a>
+									<a href="sayak.php" class="btn btn-dark">Sayak basu<br>PhD Student (SRF)</a>
 								</p>
 							</div>
 					</div>
@@ -57,7 +57,7 @@
 							<div class="overlay">
 								<p>
 									<br>
-									<a href="sambit.php" class="btn btn-dark">Sambit Ghosh<br>PhD student (JRF)</a>
+									<a href="sambit.php" class="btn btn-dark">Sambit Ghosh<br>PhD student (SRF)</a>
 								</p>
 							</div>
 					</div>
@@ -67,7 +67,7 @@
 						<img class="img-responsive " src="images/anurag.jpg" alt="" >
 							<div class="overlay">
 								<p>
-									<a href="anurag.php" class="btn btn-dark">Anurag Kumar<br>PhD Student (JRF)</a>
+									<a href="anurag.php" class="btn btn-dark">Anurag Kumar<br>PhD Student (SRF)</a>
 								</p>
 							</div>
 					</div>
@@ -77,7 +77,7 @@
 						<img class="img-responsive " src="images/sarangi.jpg" alt="" >
 							<div class="overlay">
 								<p>
-									<a href="sarangi.php" class="btn btn-dark">Vijayananda Sarangi<br>PhD student (JRF)</a>
+									<a href="sarangi.php" class="btn btn-dark">Vijayananda Sarangi<br>PhD student (SRF)</a>
 								</p>
 							</div>
 					</div>
@@ -87,7 +87,7 @@
 						<img class="img-responsive" src="images/sohom.jpg" alt="" >
 							<div class="overlay">
 								<p>
-									<a href="sohom.php" class="btn btn-dark">Sohom Roy<br>PhD student (JRF)</a>
+									<a href="sohom.php" class="btn btn-dark">Sohom Roy<br>PhD student (SRF)</a>
 								</p>
 							</div>
 					</div>
@@ -104,10 +104,10 @@
 				</div>
 				<div class="card" style="width: 14rem; height: 14rem;">
 					<div class="hovereffect facility-card">
-						<img class="img-responsive" src="images/deepak.jpg" alt="" >
+						<img class="img-responsive" src="images/deepak3.JPG" alt="" >
 							<div class="overlay">
 								<p>
-									<a href="deepak.php" class="btn btn-dark">Deepak Kumar Jha<br>Int MS-PhD <br>Student (JRF)</a>
+									<a href="deepak.php" class="btn btn-dark">Deepak Kumar Jha<br>Int MS-PhD <br>Student (SRF)</a>
 								</p>
 							</div>
 					</div>
@@ -117,7 +117,7 @@
 						<img class="img-responsive " src="images/biswajit.jpg" alt="" >
 							<div class="overlay">
 								<p>
-									<a href="biswajit.php" class="btn btn-dark">Biswajit Roy<br>Int MS-PhD <br>Student (JRF)</a>
+									<a href="biswajit.php" class="btn btn-dark">Biswajit Roy<br>Int MS-PhD <br>Student (SRF)</a>
 								</p>
 							</div>
 					</div>
@@ -136,20 +136,20 @@
 					<div class="hovereffect facility-card">
 						<img class="img-responsive " src="images/sarthak.jpg" alt="" >
 							<div class="overlay">
-							
+
 								<p>
 									<a href="sarthak.php" class="btn btn-dark">Sarthak Mohanty<br>5th year BS-MS</a>
 								</p>
 							</div>
 					</div>
 				</div>
-			
+
 			</div>
-  
-  
+
+
   <?php include 'footer.php'; ?>
-  
-  
+
+
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

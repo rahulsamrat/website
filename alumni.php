@@ -52,7 +52,7 @@
 				</div>
 				<div class="card" style="width: 14rem; height: 14rem;">
 					<div class="hovereffect">
-						<img class="img-responsive" src="images/anoop.JPG" alt="" >
+						<img class="img-responsive" src="images/sutapa.jpg" alt="" >
 							<div class="overlay">
 								<p>
 									<br>
@@ -127,11 +127,11 @@
 							</div>
 					</div>
 				</div>
-				
-				 
+
+
 			</div>
   <?php include 'footer.php'; ?>
-  
+
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

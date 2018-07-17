@@ -1,10 +1,7 @@
 
 		<div class="container-fluid">
-		
-			<div class="container" >
-			
-				<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-white border-bottom box-shadow">
-				 <a class="navbar-brand text-dark" href="index.php">Silika</a>
+				<nav class="navbar navbar-expand-md navbar-dark bg-white">
+				 <a class="navbar-brand text-dark" href="index.php"><img src="images/logo1.jpg" alt="logo" style="width:220px;height:120px;"></a>
 				<button class="navbar-toggler btn-primary" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 				</button>
@@ -38,13 +35,12 @@
 							<a class="nav-link text-dark" href="publications.php">Publications</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link text-dark" href="news.php">News</a>
+							<a class="nav-link text-dark" href="news.php">Updates</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link text-dark" href="gallary.php">Gallary</a>
+							<a class="nav-link text-dark" href="gallary.php">Gallery</a>
 						</li>
 					</ul>
 				</div>
 			</nav>
-		</div>
 		</div>

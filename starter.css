@@ -41,9 +41,9 @@ color: white;
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 60px; /* Set the fixed height of the footer here */
-  line-height: 60px; /* Vertically center the text there */
-  background-color: #f5f5f5;
+   /* Set the fixed height of the footer here */
+  /* Vertically center the text there */
+
 }
 
 /*marquee news update */
@@ -70,11 +70,11 @@ color: white;
   position: relative;
 }
 .marquee.vertical {
-  /* To make vertical animations*/ 
-  animation: vertical 5s linear infinite;
+  /* To make vertical animations*/
+  animation: vertical 7s linear infinite;
 }
 .marquee.horizontal {
- /*  To make horizontal animations */ 
+ /*  To make horizontal animations */
   animation: horizontal 15s linear infinite;
 }
 .marquee.vertical:hover,
@@ -101,7 +101,7 @@ color: white;
 
 /* nav for current projects */
 .nav1 {
-    width: 50%; 
+    width: 50%;
     display: inline-block;
     padding: 0;
     margin: 0;
@@ -110,7 +110,7 @@ color: white;
 
 /* nav for members profile */
 .nav2 {
-    width: 16%; 
+    width: 16%;
     display: inline-block;
     padding: 0;
     margin: 0;
@@ -214,10 +214,10 @@ box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 /* research background card gradient */
 .back {
     /*background: linear-gradient(to right, #00ffff 0%, #33ccff 100%);*/
-	
+
 	background-color: #235;
 	opacity: 0.4
-} 
+}
 /*.back:hover {
 background-image: url("images/anurag1.jpg");
 }*/
@@ -316,5 +316,3 @@ background-image: url("images/anurag1.jpg");
     max-width: 100%;
   }
 }
-
-

@@ -3,10 +3,12 @@
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
+          <li data-target="#myCarousel" data-slide-to="4"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="images/him.jpg" alt="First slide">
+            <img class="first-slide" src="images/site1.JPG" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <!--<h1>Example headline.</h1>
@@ -23,7 +25,21 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="third-slide" src="images/lab.jpg" alt="Third slide">
+            <img class="third-slide" src="images/site3.jpg" alt="Third slide">
+            <div class="container">
+              <div class="carousel-caption text-right">
+                 </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="fourth-slide" src="images/site2.JPG" alt="fourth slide">
+            <div class="container">
+              <div class="carousel-caption text-right">
+                 </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="fifth-slide" src="images/pic30.jpg" alt="fifth slide">
             <div class="container">
               <div class="carousel-caption text-right">
                  </div>

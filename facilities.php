@@ -19,8 +19,10 @@
   <div class="container" align="center">
 		 <br>
 		<div class="card bg-white text-dark">
+      <a href="ea.php">
 			  <img src="images/ea.JPG" style=" height:100%; width:100%;" class="facility-card">
-			  <div class="card-body">
+      </a>
+        <div class="card-body">
 				<h5 class="card-title" align="center"><a href="ea.php">Elemental Analyser</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 				<p class="card-text">Last updated 3 mins ago</p>
@@ -28,7 +30,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark ">
-			  <img src="images/gasbench.JPG" class="facility-card" style=" height:100%; width:100%">
+			  <a href="gasbench.php"><img src="images/gasbench.JPG" class="facility-card" style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="gasbench.php">Gas Bench II</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -37,7 +39,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark">
-			  <img src="images/gc-ms.JPG" class="facility-card" style=" height:100%; width:100%">
+			  <a href="gcms.php"><img src="images/gc-ms.JPG" class="facility-card" style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="gcms.php">GC MS/ GC-FID</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -46,7 +48,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark ">
-			  <img src="images/kiel.JPG" class="facility-card"  style=" height:100%; width:100%">
+			  <a href="kiel.php"><img src="images/kiel.JPG" class="facility-card"  style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="kiel.php">Kiel Carbonate</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -55,7 +57,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark ">
-			  <img src="images/GC-IRMS.jpg" class="facility-card" style=" height:100%; width:100%">
+			 <a href="irms.php"> <img src="images/GC-IRMS.jpg" class="facility-card" style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="irms.php">GC-C IRMS/ GC-TC IRMS</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -64,7 +66,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark ">
-			  <img src="images/re.JPG" class="facility-card" style=" height:100%; width:100%">
+			<a href="rotovap.php">  <img src="images/re.JPG" class="facility-card" style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="rotovap.php">Multivap Evaporator</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -73,7 +75,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark ">
-			  <img src="images/ase.JPG" class="facility-card" style=" height:100%; width:100%">
+			<a href="ase.php">  <img src="images/ase.JPG" class="facility-card" style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="ase.php">ASE</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -82,7 +84,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark ">
-			  <img src="images/mars.JPG" class="facility-card" style=" height:100%; width:100%">
+			 <a href="#"> <img src="images/mars.JPG" class="facility-card" style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="#">MARS</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -91,7 +93,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark">
-			  <img src="images/sample.jpg" class="facility-card" style=" height:100%; width:100% ">
+			 <a href=""> <img src="images/sample.jpg" class="facility-card" style=" height:100%; width:100% "></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="#">Sample Concentrator</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -100,7 +102,7 @@
 			  </div>
 		</div>
 		<div class="card bg-white text-dark ">
-			  <img src="images/micromill.JPG" class="facility-card" style=" height:100%; width:100%">
+			<a href="micromill.php">  <img src="images/micromill.JPG" class="facility-card" style=" height:100%; width:100%"></a>
 			  <div class="card-body">
 				<h5 class="card-title" align="center"><a href="micromill.php">Micromill</a></h5>
 				<!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -108,17 +110,17 @@
 				-->
 			  </div>
 		</div>
-		
-		
+
+
 		</div>
   <br>
 			  <br>
 			  <br>
-  
-  
+
+
   <?php include 'footer.php'; ?>
-  
-  
+
+
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
